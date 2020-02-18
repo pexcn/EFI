@@ -1,7 +1,2 @@
 EFI/Microsoft/Boot/BCD
 EFI/Microsoft/Boot/BCD.LOG
-
-initramfs-linux.img
-initramfs-linux-fallback.img
-intel-ucode.img
-vmlinuz-linux
